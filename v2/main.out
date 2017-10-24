@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Aufbau}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{\334bersicht}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Schaltplan}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Platine}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Beispielanwendung}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{LED Test}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{I2C Scanner}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{\334bertragen des Signals via Wi-Fi}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.1}{\334bertragungsstruktur}{subsection.2.3}% 9
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Matlab Code}{subsection.2.3}% 10
+\BOOKMARK [3][-]{subsubsection.2.3.3}{ Arduino Sketch}{subsection.2.3}% 11
+\BOOKMARK [1][-]{section.3}{Komponenten}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{ESP-12F}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{BMI055}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Fuelgauge}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.4}{LEDs}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.5}{CP2104 }{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.6}{FTDI Anschluss }{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.7}{Reset}{section.3}% 19
+\BOOKMARK [1][-]{section.4}{Anhang}{}% 20
+\BOOKMARK [2][-]{subsection.4.1}{Bibliotheken}{section.4}% 21
+\BOOKMARK [3][-]{subsubsection.4.1.1}{BMI055}{subsection.4.1}% 22
+\BOOKMARK [3][-]{subsubsection.4.1.2}{BMI055.h}{subsection.4.1}% 23
+\BOOKMARK [3][-]{subsubsection.4.1.3}{I2Cdev}{subsection.4.1}% 24
+\BOOKMARK [3][-]{subsubsection.4.1.4}{MAX17048}{subsection.4.1}% 25
